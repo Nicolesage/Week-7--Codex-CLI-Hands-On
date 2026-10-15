@@ -1,0 +1,24 @@
+---
+title: "/prompts/"
+author: "Nicole Sage"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+You: How does the cost of home sales prices change with the year the house was built in this data set?
+
+Assistant: Sale prices generally rise with the year a house was built. The median was about $125,000 for homes built in the 1940s, $147,000 for homes built in the 1970s, and $226,000 for homes built in the 2000s. The pattern varies by decade, and the 2010s figure was based on only 3 sales.
+
+You: Can you please provide me a visualization of this data?
+
+Assistant: Created a chart of median sale price by decade built. View the chart (/C:/Users/nicol/OneDrive/Documents/GitHub/Week 7- Codex CLI Hands-On/home-sale-price-by-build-decade.svg).
+
+You: can you please create me a summary table of this data?
+
+Assistant: Provided a decade-by-decade table with sales count, median price, and mean price.
+
+You: /prompts/
+
+Assistant: I didn’t see a prompts folder in the workspace and asked whether you meant to open or create one.
+
+You: transcript

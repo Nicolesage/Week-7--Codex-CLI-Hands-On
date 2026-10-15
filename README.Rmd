@@ -1,0 +1,15 @@
+---
+title: "README_CODEX"
+author: "Nicole Sage"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+Date of Codex: 10/15/26
+Question: How does the cost of home sales prices change with the year the house was built in this data set?
+
+
+Summary findings from Codex:
+Sale prices generally rise with the year a house was built. The median sale price was about $125,000 for homes built in the 1940s, $147,000 for homes built in the 1970s, and $226,000 for homes built in the 2000s.
+
+The pattern isn’t perfectly smooth: prices vary across earlier decades, and the 2010s figure is based on only 3 sales, so it’s not representative. These are raw comparisons; other factors such as size, condition, and neighborhood also affect sale price.
